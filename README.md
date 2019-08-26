@@ -1,7 +1,7 @@
 
 # Markdown Syntax Documentation.
 
-   ## 1. Syntax to display a single line of text in the format of heading.    
+    1. ## Syntax to display a single line of text in the format of heading.    
    * To create a heading, add one to six # symbols before your heading text. The number of # you 
         use will determine the size of the heading. There shpuld be at least one space between the number sign 
         and the title string.
