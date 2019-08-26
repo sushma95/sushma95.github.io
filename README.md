@@ -47,7 +47,7 @@
   
 ## Syntax to include Images.
   
-   * ! [ alternate text ](URL"hover title")
+   * To insert Images the format should be in the following manner that is first we need to insert !(exclamatory mark) followed by []square brackets where inside the brackets you can include alternate text and then lastly followed by parenthesis () inside which you can include the image address.
       
    * Alternate text is displayed if the image is not loaded. Also used for accessibility.
 
