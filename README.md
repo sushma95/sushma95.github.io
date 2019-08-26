@@ -57,6 +57,10 @@
    
    ![](markdowncheatsheet.jpg)
    
+   ![](notejoy_markdown_syntax.png)
+   
+   
+   
    ## 5. Syntax to create a link
    
    * To create a link, enclose the link text in brackets (e.g., [markdownguide]) and then follow it immediately with the URL in parentheses (e.g., (https://www.markdownguide.org)).
