@@ -74,4 +74,4 @@
    
    * Another link for learning Markdown language is [Mastering Markdown](https://guides.github.com/features/mastering-markdown).
    
-   * In the given pdf link (https://www.markdownguide.org/assets/book/markdown-guide.pdf)[1] one can refer to complete markdown guide.
+   * In the given pdf link (https://www.markdownguide.org/assets/book/markdown-guide.pdf) one can refer to complete markdown guide.
