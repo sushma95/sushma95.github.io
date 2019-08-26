@@ -26,9 +26,9 @@
    
    Desired Output for the above three:
    
-   * My dog name is **tuffy**
-   * My dog name is *tuffy*
-   * My dog name is ***tuffy***
+   1. My dog name is **tuffy**
+   1. My dog name is *tuffy*
+   1. My dog name is ***tuffy***
    
    ## 3. Syntax for Blockquotes.
    
@@ -46,7 +46,7 @@
   ## 4. Syntax to include Images.
   
    * ! [ alternate text ](URL"hover title")
-   
+      
    * Alternate text is displayed if the image is not loaded. Also used for accessibility.
 
    * URL is the address of the image to display.
@@ -59,6 +59,7 @@
    
    ![](notejoy_markdown_syntax.png)
    
+   ![](chartsheet_for_markdown.png)
    
    
    ## 5. Syntax to create a link
@@ -72,3 +73,5 @@
    * If looking for Online video tutorial check out the given link [Markdown video tutorial](https://www.youtube.com/watch?v=6A5EpqqDOdk&t).
    
    * Another link for learning Markdown language is [Mastering Markdown](https://guides.github.com/features/mastering-markdown).
+   
+   * In the given pdf link https://www.markdownguide.org/assets/book/markdown-guide.pdf one can refer to complete markdown guide.
