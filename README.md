@@ -55,7 +55,7 @@
    
    * Desired output by following the correct syntax:
    
-   ![](markdown cheat sheet.jpg)
+   ![](markdowncheatsheet.jpg)
    
    ## 5. Syntax to create a link
    
