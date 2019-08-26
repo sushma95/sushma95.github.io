@@ -55,7 +55,7 @@
    
    * Desired output by following the correct syntax:
    
-   ![image info](./Desktop/markdown cheat sheet.jpg.png)
+   ![image info](markdown cheat sheet.jpg)
    
    ## 5. Syntax to create a link
    
