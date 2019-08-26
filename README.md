@@ -1,7 +1,7 @@
 
 # Markdown Syntax Documentation.
 
-   ## Syntax to display a single line of text in the format of heading.    
+## Syntax to display a single line of text in the format of heading.    
    * To create a heading, add one to six # symbols before your heading text. The number of # you 
         use will determine the size of the heading. There shpuld be at least one space between the number sign 
         and the title string.
@@ -15,11 +15,13 @@
          
       
    Output:
-   # I love Dogs
-   ## I love Dogs
-   ###### I love Dogs 
+# I love Dogs
    
-   ## Syntax for Styling any text.
+## I love Dogs
+   
+###### I love Dogs 
+   
+## Syntax for Styling any text.
    * For text in "BOLD" add two asterisks or underscores before and after a word or phrase.  
    * For text in "ITALIC" add one asterisk or underscore before and after a word or phrase.
    * For text in "BOLD AND ITALIC" at the same time add three asterisks or underscores before and after a word or phrase.
@@ -30,7 +32,7 @@
    1. My dog name is *tuffy*
    1. My dog name is ***tuffy***
    
-   ## Syntax for Blockquotes.
+## Syntax for Blockquotes.
    
    1. To create a blockquote, add a > in front of a paragraph.
    1. To create a blockquotes with multiple paragraphs we need to always a > on the blank lines between the paragraphs.
@@ -43,7 +45,7 @@
    >
    > Dogs are loyal and the cutest.
   
-  ## Syntax to include Images.
+## Syntax to include Images.
   
    * ! [ alternate text ](URL"hover title")
       
@@ -62,7 +64,7 @@
    ![](chartsheet_for_markdown.png)
    
    
-   ## Syntax to create a link
+## Syntax to create a link
    
    * To create a link, enclose the link text in brackets (e.g., [markdownguide]) and then follow it immediately with the URL in parentheses (e.g., (https://www.markdownguide.org)).
    
