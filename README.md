@@ -68,7 +68,7 @@
    
    * To create a link, enclose the link text in brackets (e.g., [markdownguide]) and then follow it immediately with the URL in parentheses (e.g., (https://www.markdownguide.org)).
    
-   * The rendered output looks like this:
+   * The rendered output looks like the below if correct syntax is followed:
    
    * My favorite markdown "go to" website is [Markdownguide](https://www.markdownguide.org).
    
@@ -77,3 +77,7 @@
    * Another link for learning Markdown language is [Mastering Markdown](https://guides.github.com/features/mastering-markdown).
    
    * In the given pdf link [Markdown guide](https://www.markdownguide.org/assets/book/markdown-guide.pdf) one can refer to complete markdown guide.
+
+## Syntax for Paragraphs
+
+  * When we want to create a paragraph in markdown we need to amek sure that we leave a blan line between blocks of text or else the     whole text will be collapsed in a single paragraph.So if we require space between two sentences we need to make sure we leave a blank line between them.
