@@ -11,15 +11,14 @@
          
          ## I love Dogs
          
-         ###### I love Dogs
+         
          
       
    Output:
 # I love Dogs
    
 ## I love Dogs
-   
-###### I love Dogs 
+    
    
 ## Syntax for Styling any text.
    * For text in "BOLD" add two asterisks or underscores before and after a word or phrase.  
